@@ -13,7 +13,7 @@ Ce script PowerShell **simple** et **gratuit** permet de générer des fichiers 
 
 * **✅ Simple et intuitif :** Interface utilisateur en ligne de commande facile à comprendre.
 * **💯 Gratuit :** Aucuns frais d'utilisation.
-* **<0xF0><0x9F><0x97><0x84>️ Portable :** Fonctionne sur tout système Windows avec PowerShell.
+* **📩 Portable :** Fonctionne sur tout système Windows avec PowerShell.
 
 ## 📝 Note
 

@@ -2,6 +2,7 @@
 
 Ce script PowerShell **simple** et **gratuit** permet de générer des fichiers vides en quelques clics. Idéal pour créer rapidement des **fichiers de test** de taille **X** en **Go**.
 
+> [🦠 Résultat Virus Total](https://www.virustotal.com/gui/file/879af29749d62fb794893227a13fb9d144cbbf7f0c41d51e923763bbd8968920/detection)
 ## 🛠️ Utilisation
 
 1.  **⬇️ Téléchargez** le script `androzfilegenerator.ps1` depuis [https://github.com/androztech/androzfilegenerator/releases](https://github.com/androztech/androzfilegenerator/releases).

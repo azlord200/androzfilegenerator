@@ -1,4 +1,4 @@
-# 🚀 Androz File Generator (PowerShell Script) ⚙️
+# 🚀 Azlord File Generator (PowerShell Script) ⚙️
 
 Ce script PowerShell **simple** et **gratuit** permet de générer des fichiers vides en quelques clics. Idéal pour créer rapidement des **fichiers de test** de taille **X** en **Go**.
 

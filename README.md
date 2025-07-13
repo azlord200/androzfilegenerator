@@ -8,7 +8,7 @@ Ce script PowerShell **simple** et **gratuit** permet de générer des fichiers 
 1.  **⬇️ Téléchargez** le script `androzfilegenerator.ps1` depuis [https://github.com/androztech/androzfilegenerator/releases](https://github.com/androztech/androzfilegenerator/releases).
 2.  **💻 Ouvrez**-le avec **PowerShell**.
 3.  **SI** et seulement **si** vous avez une erreur comme celle ci : `Impossible de charger le fichier C:\Users\Administrateur\Desktop\androzfilegenerator.ps1.
-Le fichier C:\Users\Administrateur\Desktop\androzfilegenerator.ps1 n’est pas signé numériquement.`, tapez la commande `Set-ExecutionPolicy Unrestricted`et lorsque vous avez l'avertissement de sécurité, tapez `o`.
+Le fichier C:\Users\Administrateur\Desktop\androzfilegenerator.ps1 n’est pas signé numériquement.`, tapez la commande `powershell -ExecutionPolicy Bypass -File .\androzfilegenerator.ps1`. 
 4.  ✍️ Le script vous guidera pour spécifier la **taille** en **Go** et le **nom** du fichier.
 
 ## ✨ Fonctionnalités

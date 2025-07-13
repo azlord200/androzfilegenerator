@@ -5,7 +5,7 @@ Ce script PowerShell **simple** et **gratuit** permet de générer des fichiers 
 > [🦠 Résultat Virus Total](https://www.virustotal.com/gui/file/bb942635b0eaf72da58cd90492fbcf72b2a5d2a7a4d8fad0b6c63b89cd3b5867)
 ## 🛠️ Utilisation
 
-1.  **⬇️ Téléchargez** le script `androzfilegenerator.ps1` depuis [https://github.com/androztech/androzfilegenerator/releases](https://github.com/androztech/androzfilegenerator/releases).
+1.  **⬇️ Téléchargez** le script `androzfilegenerator.ps1` depuis [https://github.com/androztech/androzfilegenerator/releases](https://github.com/azlord200/azlordfilegenerator/releases).
 2.  **💻 Ouvrez**-le avec **PowerShell**.
 3.  **SI** et seulement **si** vous avez une erreur comme celle ci : `Impossible de charger le fichier C:\Users\Administrateur\Desktop\androzfilegenerator.ps1.
 Le fichier C:\Users\Administrateur\Desktop\androzfilegenerator.ps1 n’est pas signé numériquement.`, tapez la commande `powershell -ExecutionPolicy Bypass -File .\androzfilegenerator.ps1`. 
